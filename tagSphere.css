@@ -1,0 +1,21 @@
+
+#tagsphere{
+  /*background: url('/images/background.png') top center no-repeat;*/
+  height: 230px; width: 380px;
+  padding: 10px;
+  margin: 10px;
+  margin: 0 auto;
+  width:10px;
+  width:10px
+};
+
+ul li a img{
+  width:10px !important;
+  height:10px !important;
+};
+
+
+.tagSpherePicts{
+  width:10px !important;
+  height:10px !important;
+};
